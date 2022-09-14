@@ -22,7 +22,7 @@
 
 
 ## Descrição do projeto 
- <p>Um programa que calcula e exibe um gráfico na tela, baseado nos valores fornecidos pelo usuário</p>
+ <p>Um programa que calcula e exibe um gráfico na tela, baseado nos valores fornecidos pelo usuário.</p>
  
 ![SS07](https://user-images.githubusercontent.com/101216409/190039796-efeab202-2e7a-4f4b-839f-dba6ce66b034.jpg)
 
@@ -54,7 +54,7 @@
 
 ## Como rodar a aplicação :arrow_forward:
 
-Basta executar o arquivo JogodaVelha.exe na pasta principal.
+Basta executar o arquivo Graficos.exe nos Releases.
 
 ## Como usar a aplicação :question:
 
